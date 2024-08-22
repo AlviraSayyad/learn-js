@@ -1,5 +1,6 @@
 const mySym=Symbol("key1")
 
+//non-singletone object
 const JsUser={
     name:"Alvira",
     "full name":"Alvira Sayyad",
